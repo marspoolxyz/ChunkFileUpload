@@ -1,11 +1,11 @@
 # ChunkFileUpload
 
 # Start the Client 
-cd client
-npm install
-npm start
+# cd client
+# npm install
+# npm start
 
 # Start the Server
-cd server
-npm install
-npm run server
+# cd server
+# npm install
+# npm run server
